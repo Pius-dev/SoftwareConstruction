@@ -8,7 +8,7 @@ Software has strongly embraced this metaphor, both for its casual parallels to p
 
 
 
-Waterfall Model
+# Waterfall Model
 The waterfall model is a sequential, plan driven-process where you must plan and schedule all your activities before starting the project. Each activity in the waterfall model is represented as a separate phase arranged in linear order.
 It has the following phases:
     •	Requirements
@@ -18,7 +18,7 @@ It has the following phases:
     •	Deployment
     •	Maintenance
     
-  Advantages
+  ** Advantages
   
   •	Easy to Control and Manage: The section division in the Waterfall executes it easier to handle. Each phase produces its own procedures and reliability.
   •	High Visibility: The output after completion of each phase generates high visibility in the Waterfall model.
@@ -125,7 +125,7 @@ You have the following phases for each cycle:
     •	Project’s success is highly dependent on the risk analysis phase.
     •	Doesn’t work well for smaller projects.
 
-Iterative Model
+**Iterative Model**
 The iterative development model develops a system through building small portions of all the features. This helps to meet initial scope quickly and release it for feedback.
 In the iterative model, you start off by implementing a small set of the software requirements. These are then enhanced iteratively in the evolving versions until the system is completed. This process model starts with part of the software, which is then implemented and reviewed to identify further requirements.
 Like the incremental model, the iterative model allows you to see the results at the early stages of development. This makes it easy to identify and fix any functional or design flaws. It also makes it easier to manage risk and change requirements.
