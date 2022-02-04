@@ -8,6 +8,7 @@ These fundamental notions of the built world found parallels in the 1960s world 
 Software has strongly embraced this metaphor, both for its casual parallels to programming-in-the-large on one hand and for some of its specific techniques on the other. Software engineering tends to emphasize the former, with the strongest parallels relating to the concerns around the coarse or large structure of software and how it relates to the prominent architectural features in the framing of an edifice in the built world.<br> The pattern discipline  is an example of the latter, whose philosophies of local adaptation and piecemeal growth became an alternative to big-up-front-design in the 1990s and flourished in the guise of the agile movement in the ensuing decade.
 
 
+#Types of software process models
 
 ## 1. Waterfall Model <br>
 The waterfall model is a sequential, plan driven-process where you must plan and schedule all your activities before starting the project. Each activity in the waterfall model is represented as a separate phase arranged in linear order.
