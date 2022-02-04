@@ -8,7 +8,7 @@ These fundamental notions of the built world found parallels in the 1960s world 
 Software has strongly embraced this metaphor, both for its casual parallels to programming-in-the-large on one hand and for some of its specific techniques on the other. Software engineering tends to emphasize the former, with the strongest parallels relating to the concerns around the coarse or large structure of software and how it relates to the prominent architectural features in the framing of an edifice in the built world.<br> The pattern discipline  is an example of the latter, whose philosophies of local adaptation and piecemeal growth became an alternative to big-up-front-design in the 1990s and flourished in the guise of the agile movement in the ensuing decade.
 
 
-#Types of software process models
+<h2>Types of software process models</h2> <br>
 
 ## 1. Waterfall Model <br>
 The waterfall model is a sequential, plan driven-process where you must plan and schedule all your activities before starting the project. Each activity in the waterfall model is represented as a separate phase arranged in linear order.
@@ -19,6 +19,9 @@ It has the following phases:
     •	Testing
     •	Deployment
     •	Maintenance
+    
+
+    <img src="img1.png"/>
     
   Advantages <br>
   
@@ -142,6 +145,23 @@ Disadvantages of Iterative model:  <br>
 
 
 
+## 7. Prototyping
 
+Prototyping in software development is the process of building a simulated user interface for purposes of ideation, evaluation, and user feedback. Modern software prototypes are interactive. They mimic as closely as possible the actual behavior of the software.
+
+Advantages of using Prototype Model : <br>
+
+This model is flexible in design.
+It is easy to detect errors.
+We can find missing functionality easily.
+There is scope of refinement, it means new requirements can be easily accommodated.
+
+
+Disadvantages of using Prototype Model : <br>
+
+This model is costly.
+It has poor documentation because of continuously changing customer requirements.
+There may be too much variation in requirements.
+Customers sometimes demand the actual product to be delivered soon after seeing an early prototype.
 
 
