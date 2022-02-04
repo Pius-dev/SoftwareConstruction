@@ -7,7 +7,7 @@ These fundamental notions of the built world found parallels in the 1960s world 
 
 
 
-# Waterfall Model<br>
+##1. Waterfall Model<br>
 The waterfall model is a sequential, plan driven-process where you must plan and schedule all your activities before starting the project. <br>Each activity in the waterfall model is represented as a separate phase arranged in linear order.<br>
 It has the following phases:<br>
     •	Requirements
@@ -30,7 +30,7 @@ It has the following phases:<br>
     •	There is high amount of risks and uncertainty and risk.
 
 
-V Model<br>
+##.2 V Model<br>
 The V model (Verification and Validation model) is an extension of the waterfall model. All the requirements are gathered at the start and cannot be changed. You have a corresponding testing activity for each stage. For every phase in the development cycle, there is an associated testing phase.
 
   Advantages<br>
@@ -45,7 +45,7 @@ The V model (Verification and Validation model) is an extension of the waterfall
   •	The design has limited flexibility in terms of its execution.  It is overall not          suitable to use for building object-oriented software.
   •	Both test documents and requirement documents require to be updated if there is any     fault in the system
 
-Incremental Model<br>
+##.3 Incremental Model<br>
 The incremental model divides the system’s functionality into small increments that are delivered one after the other in quick succession. The most important functionality is implemented in the initial increments.
 The subsequent increments expand on the previous ones until everything has been updated and implemented.
 Incremental development is based on developing an initial implementation, exposing it to user feedback, and evolving it through new versions. The process’ activities are interwoven by feedback. Each iteration passes through the requirements, design, coding, and testing stages.
@@ -65,7 +65,7 @@ Disadvantages<br>
     •	It requires a good planning designing
 
 
-Agile model<br>
+## 4 Agile model<br>
 The agile process model encourages continuous iterations of development and testing. Each incremental part is developed over an iteration, and each iteration is designed to be small and manageable so it can be completed within a few weeks.
 Each iteration focuses on implementing a small set of features completely. It involves customers in the development process and minimizes documentation by using informal communication.<br>
 Agile development considers the following:
@@ -88,7 +88,7 @@ Disadvantages<br>
 •	The project can easily get taken off track if the customer representative is not clear what final outcome that they want.
 •	Only senior programmers are capable of taking the kind of decisions required during the development process. Hence it has no place for newbie programmers, unless combined with experienced resources.
 <br>
-Spiral Model<br>
+## 5. Spiral Model<br>
 The spiral model is a risk driven iterative software process model. The spiral model delivers projects in loops.<br> Unlike other process models, its steps aren’t activities but phases for addressing whatever problem has the greatest risk of causing a failure.
 It was designed to include the best features from the waterfall and introduces risk-assessment.
 You have the following phases for each cycle:
@@ -111,7 +111,7 @@ You have the following phases for each cycle:
     •	Project’s success is highly dependent on the risk analysis phase.
     •	Doesn’t work well for smaller projects.
 
-**Iterative Model**<br>
+## 6. Iterative Model<br>
 The iterative development model develops a system through building small portions of all the features. This helps to meet initial scope quickly and release it for feedback.
 In the iterative model, you start off by implementing a small set of the software requirements. These are then enhanced iteratively in the evolving versions until the system is completed. This process model starts with part of the software, which is then implemented and reviewed to identify further requirements.
 Like the incremental model, the iterative model allows you to see the results at the early stages of development. This makes it easy to identify and fix any functional or design flaws. It also makes it easier to manage risk and change requirements.
