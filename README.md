@@ -26,15 +26,12 @@ It has the following phases:
   •	Reduced Number of Problematic Issues: The output of each phase is examined ere it is sent to the subsequent phase, as the Waterfall model holds different phases.
 
   Disadvantages <br>
-
-    •	Making Changes can be Problematic: The Waterfall model completely depends on the subsequent steps which make the team progress forward.
-    •	Delayed Testing until after Completion: The testing cannot linger until the half last of the project as it can be risky.
-
-    •	Not efficient model for object oriented and complex projects.
-
-    •	There is high amount of risks and uncertainty and risk.
-
+     •	Making Changes can be Problematic: The Waterfall model completely depends on the subsequent steps which make the team progress forward.
+    • Delayed Testing until after Completion: The testing cannot linger until the half last of the project as it can be risky.
+     •	Not efficient model for object oriented and complex projects.
+      •	There is high amount of risks and uncertainty and risk.
   
+
   
 
 ## 2. V Model <br>
